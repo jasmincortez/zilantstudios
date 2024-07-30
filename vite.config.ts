@@ -5,7 +5,7 @@ import { join, parse, resolve } from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/",
+  base: "/deathgame/",
   build: {
     rollupOptions: {
       input: entryPoints("index.html", "404.html"),
