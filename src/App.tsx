@@ -106,10 +106,16 @@ export default function App() {
       </nav>
 
       <Stack sx={{ width: "100vw" }}>
-        <img
-          src="./codegif.gif"
+        <video
+          src="./Dungeon.mov"
+          // src="./AniDungeon.mov"
+          // src="./Code.mov"
+          autoPlay
+          loop
+          muted
+          playsInline
           style={{
-            marginTop: 96,
+            marginTop: 60,
             marginBottom: 0,
             padding: 0,
             width: "100%",

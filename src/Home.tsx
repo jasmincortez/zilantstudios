@@ -1,5 +1,4 @@
 import { Box, Button, alpha } from "@mui/material";
-import theme from "./theme";
 
 export default function Home() {
   const imgsize = 40;
@@ -18,10 +17,10 @@ export default function Home() {
       <img
         src="./DG_logo.jpg"
         style={{
-          height: "60vh",
+          height: "50vh",
           borderRadius: "100%",
           margin: "8px 0",
-          boxShadow: "0px 0px 65px -17px #000000",
+          boxShadow: "0px 0px 80px -17px #000000",
         }}
       />
     </Box>

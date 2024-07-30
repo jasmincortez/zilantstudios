@@ -105,7 +105,7 @@ const itemData = [
     img: "./Wit.jpg",
     title: "Wit Wrangler",
     bio: "Text bio",
-    avatar: "./Lady_Rapture.png",
+    avatar: "./Jack_Biggins.png",
     rows: 2,
     cols: 2,
     featured: true,
