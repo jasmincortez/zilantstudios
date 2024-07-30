@@ -1,5 +1,4 @@
 import Button from "@mui/material/Button";
-import Container from "@mui/material/Container";
 import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
 import InstagramIcon from "@mui/icons-material/Instagram";
@@ -60,7 +59,7 @@ export default function Contact() {
             startIcon={<AlternateEmailIcon />}
             sx={{
               color: theme.palette.secondary.main,
-              fontSize: 15,
+              fontSize: 20,
               px: 1.5,
               py: 0.5,
               mx: 1,
@@ -80,7 +79,7 @@ export default function Contact() {
             startIcon={<InstagramIcon />}
             sx={{
               color: theme.palette.secondary.main,
-              fontSize: 15,
+              fontSize: 20,
               px: 1.5,
               py: 0.5,
               mx: 1,
@@ -98,7 +97,7 @@ export default function Contact() {
             startIcon={<InstagramIcon />}
             sx={{
               color: theme.palette.secondary.main,
-              fontSize: 15,
+              fontSize: 20,
               px: 1.5,
               py: 0.5,
               mx: 1,
