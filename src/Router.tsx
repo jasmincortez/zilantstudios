@@ -20,7 +20,7 @@ export interface RouteDefinition {
   element: JSX.Element;
 }
 
-export const BASE_URL = "/";
+export const BASE_URL = "/deathgame/";
 
 export const routes: RouteDefinition[] = [
   {
