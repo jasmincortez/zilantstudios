@@ -68,7 +68,7 @@ const itemData = [
   {
     img: "./Alcina.jpeg",
     title: "Alcina Summers",
-    bio: "Text bio",
+    bio: "Playing as Medea, Alcina Summers",
     avatar: "./Medea.png",
     rows: 2,
     cols: 2,
@@ -84,7 +84,7 @@ const itemData = [
   {
     img: "./Jasmin.jpg",
     title: "Jasmin Cortez",
-    bio: "Playing as Lady Rapture, Jasmin Cortez is a Brazilian-German actor, VO artist, director and singer-songwriter. Based both in the UK and in Brazil, they have been woking in the industry for over 10 years. With a passion for fantasy worlds, TTRPG and art, Jasmin looks to combine it all to create something special that touches people's hearts.",
+    bio: "Playing as Lady Rapture, Jasmin Cortez is a Brazilian-German actor, VO artist, director and singer-songwriter. Based both in the UK and Brazil, they have been woking in the industry for over 10 years. With a passion for fantasy worlds, TTRPGs, nature and art, Jasmin looks to combine it all to create something special that touches people's hearts.",
     avatar: "./Lady_Rapture.png",
   },
   {
@@ -104,7 +104,7 @@ const itemData = [
   {
     img: "./Wit.jpg",
     title: "Wit Wrangler",
-    bio: "Playing as the Game Master, South Carolina native author Wit Wrangler has been roping stories around audiences for the past 16 years. From community engagement, world building and voice acting, Wit implements improv and a theater upbringing to instill a sense of real emotion amongst TTRPG players. When he isn’t spinning epic narratives he spends his time connecting with nature and drawing inspiration from wildlife.",
+    bio: "Playing as the Game Master, South Carolina native author Wit Wrangler has been roping stories around audiences for the past 16 years. From community engagement, world building and voice acting, Wit implements improv and a theater upbringing to instill a sense of real emotion amongst TTRPG players. When he isn’t spinning epic narratives, he spends his time connecting with nature and drawing inspiration from wildlife.",
     avatar: "./Jack_Biggins.png",
     rows: 2,
     cols: 2,
