@@ -68,7 +68,7 @@ const itemData = [
   {
     img: "./Alcina.jpeg",
     title: "Alcina Summers",
-    bio: "Playing as Medea, Alcina Summers",
+    bio: "Playing as Medea, Alcina Summers is a voice actor, actress and a singer with a deep love for musical theatre and TTRPGs. Based in the Netherlands, she has experience in voice acting in Dutch and English. Her love for DnD and storytelling compels her to come together with like minded people to create beautiful narratives.",
     avatar: "./Medea.png",
     rows: 2,
     cols: 2,
