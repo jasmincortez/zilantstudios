@@ -77,14 +77,14 @@ const itemData = [
   {
     img: "./Ian.jpeg",
     title: "Ian DePriest",
-    bio: "Playing Noboru, born in Singapore and raised in Kansas, Ian DePriest is a voice actor, singer-songwriter, and new TTRPG performer currently based in Nashville, Tennessee. Whether it is to escape into fantastical places, or to be grounded in the contradictions of being human, Ian seeks to bring people and their hearts together through storytelling.",
+    bio: "Playing as Noboru, born in Singapore and raised in Kansas, Ian DePriest is a voice actor, singer-songwriter, and new TTRPG performer currently based in Nashville, Tennessee. Whether it is to escape into fantastical places, or to be grounded in the contradictions of being human, Ian seeks to bring people and their hearts together through storytelling.",
     avatar: "./Noboru.png",
   },
 
   {
     img: "./Jasmin.jpg",
     title: "Jasmin Cortez",
-    bio: "Playing Lady Rapture, Jasmin Cortez is a Brazilian-German actor, VO artist, director and singer-songwriter. Based both in the UK and in Brazil, they have been woking in the industry for over 10 years. With a passion for fantasy worlds, TTRPG and art, Jasmin looks to combine it all to create something special that touches people's hearts.",
+    bio: "Playing as Lady Rapture, Jasmin Cortez is a Brazilian-German actor, VO artist, director and singer-songwriter. Based both in the UK and in Brazil, they have been woking in the industry for over 10 years. With a passion for fantasy worlds, TTRPG and art, Jasmin looks to combine it all to create something special that touches people's hearts.",
     avatar: "./Lady_Rapture.png",
   },
   {
@@ -104,7 +104,7 @@ const itemData = [
   {
     img: "./Wit.jpg",
     title: "Wit Wrangler",
-    bio: "Text bio",
+    bio: "Playing as the Game Master, South Carolina native author Wit Wrangler has been roping stories around audiences for the past 16 years. From community engagement, world building and voice acting, Wit implements improv and a theater upbringing to instill a sense of real emotion amongst TTRPG players. When he isn’t spinning epic narratives he spends his time connecting with nature and drawing inspiration from wildlife.",
     avatar: "./Jack_Biggins.png",
     rows: 2,
     cols: 2,
