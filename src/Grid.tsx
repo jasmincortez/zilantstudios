@@ -97,7 +97,7 @@ const itemData = [
   {
     img: "./Richard.jpg",
     title: "Richard Garceau",
-    bio: "Text bio",
+    bio: "Playing as Jack Biggins, born in the humid swamps of Florida, Richard journeyed long ago to the mountains of North Georgia where he has been crafting emotionally driven TTRPGs from deep within the woods of Appalachia. Classically trained in choral music in addition to performing in various productions, Richard now seeks to bring his expertise in storytelling to a wider audience while staying true to the principles of emotional authenticity, improvisation, and immersive transformation.",
     avatar: "./Jack_Biggins.png",
     cols: 2,
   },
@@ -105,7 +105,7 @@ const itemData = [
     img: "./Wit.jpg",
     title: "Wit Wrangler",
     bio: "Playing as the Game Master, South Carolina native author Wit Wrangler has been roping stories around audiences for the past 16 years. From community engagement, world building and voice acting, Wit implements improv and a theater upbringing to instill a sense of real emotion amongst TTRPG players. When he isn’t spinning epic narratives, he spends his time connecting with nature and drawing inspiration from wildlife.",
-    avatar: "./Jack_Biggins.png",
+    avatar: "./Dreau.png",
     rows: 2,
     cols: 2,
     featured: true,
