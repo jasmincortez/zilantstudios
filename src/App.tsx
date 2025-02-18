@@ -69,7 +69,7 @@ export default function App() {
             <MenuIcon />
           </IconButton>
           <img
-            src="./DG_logo.jpg"
+            src="./ZS_logo.jpg"
             style={{
               height: 80,
               borderRadius: "100%",
