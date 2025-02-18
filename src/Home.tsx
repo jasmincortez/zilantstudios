@@ -15,7 +15,7 @@ export default function Home() {
       }}
     >
       <img
-        src="./DG_logo.jpg"
+        src="./ZS_logo.png"
         style={{
           height: "50vh",
           borderRadius: "100%",

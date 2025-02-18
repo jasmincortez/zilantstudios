@@ -88,7 +88,7 @@ const itemData = [
     avatar: "./Lady_Rapture.png",
   },
   {
-    img: "./DG_logo.jpg",
+    img: "./ZS_logo.png",
     title: "Matt",
     bio: "Text bio",
     avatar: "./Vrick.png",

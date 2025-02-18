@@ -34,7 +34,7 @@ export default function App() {
       }}
     >
       <img
-        src="./DG_logo.jpg"
+        src="./ZS_logo.png"
         style={{
           width: "25vw",
           marginTop: "1rem ",
@@ -69,7 +69,7 @@ export default function App() {
             <MenuIcon />
           </IconButton>
           <img
-            src="./ZS_logo.jpg"
+            src="./ZS_logo.png"
             style={{
               height: 80,
               borderRadius: "100%",
