@@ -18,12 +18,26 @@ export default function Contact() {
       >
         CONTACT
       </Typography>
-
+      <Box
+        alignItems={"center"}
+        sx={{
+          display: "flex",
+          justifyContent: "center",
+        }}
+      >
+        <img
+          src="./ZS_logo_noBG.png"
+          style={{
+            height: "40vh",
+            borderRadius: "100%",
+          }}
+        />
+      </Box>
       <Typography
         color={theme.palette.bodytext.main}
         variant="body1"
         textAlign={"center"}
-        sx={{ mt: 10, fontSize: 20 }}
+        sx={{ fontSize: 20 }}
       >
         For questions and enquiries:
       </Typography>
