@@ -82,15 +82,15 @@ const itemData = [
   },
 
   {
-    img: "./Jasmin.jpg",
+    img: "./Jasmin.jpeg",
     title: "Jasmin Cortez",
     bio: "Playing as Lady Rapture, Jasmin Cortez is a Brazilian-German actor, VO artist, director and singer-songwriter. Based both in the UK and Brazil, they have been woking in the industry for over 10 years. With a passion for fantasy worlds, TTRPGs, nature and art, Jasmin looks to combine it all to create something special that touches people's hearts.",
     avatar: "./Lady_Rapture.png",
   },
   {
-    img: "./ZS_logo.png",
+    img: "./Matt.jpg",
     title: "Matt",
-    bio: "Text bio",
+    bio: "Playing as Vrick the Brick, a giant man with a gentle heart, Matt brings warmth and power to every role. Born and raised in the Netherlands and now living in Belgium, he’s a lifelong gamer, dedicated weeb, and passionate basketball player. With experience in E-Sports and a love for storytelling, he brings characters to life with energy, humor, and depth. Off the mic, you’ll find him joking around, leveling up in games, or spending time with his loving partner, Laura. (PS. The cutest problem of his live is called Lucy and she is indeed, a Good Girl).",
     avatar: "./Vrick.png",
     cols: 2,
   },
