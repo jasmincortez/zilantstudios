@@ -20,7 +20,7 @@ export default function About() {
           variant="body1"
           sx={{ mt: 3, pt: 2, fontWeight: "bold" }}
         >
-          The project
+          The project: Second Chance Dungeon
         </Typography>
         <Typography
           color={theme.palette.bodytext.main}
