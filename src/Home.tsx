@@ -15,12 +15,11 @@ export default function Home() {
       }}
     >
       <img
-        src="./ZS_logo.png"
+        src="./ZS_logo_noBG.png"
         style={{
           height: "50vh",
           borderRadius: "100%",
           margin: "8px 0",
-          boxShadow: "0px 0px 80px -17px #000000",
         }}
       />
     </Box>

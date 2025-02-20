@@ -34,12 +34,11 @@ export default function App() {
       }}
     >
       <img
-        src="./ZS_logo.png"
+        src="./ZS_logo_noBG.png"
         style={{
           width: "25vw",
           marginTop: "1rem ",
           borderRadius: "100%",
-          boxShadow: "0px 0px 65px -17px #e3e3e3",
         }}
       />
       <Divider />
@@ -69,12 +68,11 @@ export default function App() {
             <MenuIcon />
           </IconButton>
           <img
-            src="./ZS_logo.png"
+            src="./ZS_logo_noBG.png"
             style={{
               height: 80,
               borderRadius: "100%",
               margin: "8px 0",
-              boxShadow: "0px 0px 65px -17px #e3e3e3",
             }}
           />
           <Box sx={{ display: { xs: "none", sm: "none", md: "block" } }}>
