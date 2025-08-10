@@ -103,7 +103,12 @@ export default function App() {
         </Drawer>
       </nav>
 
-      <Stack sx={{ width: "100vw", backgroundColor: "black" }}>
+      <Stack
+        sx={{
+          width: "100vw",
+          backgroundColor: useCurrentPath() === "/home" ? "black" : undefined,
+        }}
+      >
         {/* <video
           // src="./Dungeon.mov"
           // src="./AniDungeon.mov"
