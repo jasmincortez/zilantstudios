@@ -46,7 +46,7 @@ export default function ResponsiveGrid() {
                       srcSet={`${item.avatar}?w=248&fit=crop&auto=format&dpr=2 2x`}
                       src={`${item.avatar}?w=248&fit=crop&auto=format`}
                       alt="Character Avatar"
-                      sx={{ width: 96, height: 96, mt: -7.5, ml: -2 }}
+                      sx={{ width: 105, height: 105, mt: -7.5, ml: -2 }}
                     />
                   </Stack>
                   <Typography

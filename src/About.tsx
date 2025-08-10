@@ -15,34 +15,21 @@ export default function About() {
         ABOUT
       </Typography>
       <Box>
-        <Typography
+        {/* <Typography
           color={theme.palette.bodytext.main}
           variant="body1"
           sx={{ mt: 3, pt: 2, fontWeight: "bold" }}
         >
           The project: Second Chance Dungeon
-        </Typography>
+        </Typography> */}
         <Typography
           color={theme.palette.bodytext.main}
           sx={{ my: 3, fontSize: 20, pb: 2 }}
         >
-          A high stakes dungeon dive for those who have met their demise; watch
-          as they strive for the chance to survive.
-          <Typography
-            color={theme.palette.bodytext.main}
-            sx={{ my: 3, fontSize: 20 }}
-          >
-            Setting: The creator of this seemingly endless dungeon has stopped
-            select individuals at the moment of their death, offering them a
-            second chance to see if they have what it takes to make it to the
-            final floor and win back their lives through any means necessary.
-          </Typography>
-          Plot: The players are humans from Earth who have, in their most recent
-          memories, died, but are given the chance to make one unique avatar to
-          continue living on inside Death Game in a desperate attempt to return
-          to living with their circumstances altered. In order to do that, they
-          must reach the final floor of a dungeon which seems to never end but
-          grows increasingly difficult.
+          As creators of immersive, cinematic TTRPG experiences, Zilant Studios
+          features a team of dynamic voice actors from across the globe to debut
+          "Second Change Dungeon," a 5E experience with a focus on high-stakes,
+          story-driven adventure that pivots on the roll of the dice.
         </Typography>
       </Box>
       <Box>
