@@ -68,7 +68,7 @@ export default function Contact() {
         >
           <Button
             target="_blank"
-            href="mailto:zilanttheory@gmail.com"
+            href="mailto:admin@zilantstudios.com"
             component="a"
             startIcon={<AlternateEmailIcon />}
             sx={{
