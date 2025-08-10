@@ -103,7 +103,7 @@ export default function App() {
         </Drawer>
       </nav>
 
-      <Stack sx={{ width: "100vw" }}>
+      <Stack sx={{ width: "100vw", backgroundColor: "black" }}>
         {/* <video
           // src="./Dungeon.mov"
           // src="./AniDungeon.mov"
