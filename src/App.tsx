@@ -104,7 +104,7 @@ export default function App() {
       </nav>
 
       <Stack sx={{ width: "100vw" }}>
-        <video
+        {/* <video
           // src="./Dungeon.mov"
           // src="./AniDungeon.mov"
           src="./Code.mov"
@@ -123,7 +123,7 @@ export default function App() {
             position: "fixed",
             display: useCurrentPath() === "/home" ? "block" : "none",
           }}
-        />
+        /> */}
         <Container
           maxWidth="lg"
           component="main"
