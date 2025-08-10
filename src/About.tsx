@@ -40,12 +40,12 @@ export default function About() {
         >
           The cast
         </Typography>
-        <Typography
+        {/* <Typography
           color={theme.palette.bodytext.main}
           sx={{ my: 3, fontSize: 20, pb: 2 }}
         >
           Talk about cast if we want
-        </Typography>
+        </Typography> */}
         <Grid />
       </Box>
     </>
