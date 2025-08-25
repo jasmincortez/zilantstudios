@@ -109,26 +109,6 @@ export default function App() {
           backgroundColor: useCurrentPath() === "/home" ? "black" : undefined,
         }}
       >
-        {/* <video
-          // src="./Dungeon.mov"
-          // src="./AniDungeon.mov"
-          src="./Code.mov"
-          autoPlay
-          loop
-          muted
-          playsInline
-          style={{
-            marginTop: 60,
-            marginBottom: 0,
-            padding: 0,
-            width: "100%",
-            height: "100vh",
-            overflow: "hidden",
-            objectFit: "cover",
-            position: "fixed",
-            display: useCurrentPath() === "/home" ? "block" : "none",
-          }}
-        /> */}
         <Container
           maxWidth="lg"
           component="main"
