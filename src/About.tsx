@@ -15,13 +15,6 @@ export default function About() {
         ABOUT
       </Typography>
       <Box>
-        {/* <Typography
-          color={theme.palette.bodytext.main}
-          variant="body1"
-          sx={{ mt: 3, pt: 2, fontWeight: "bold" }}
-        >
-          The project: Second Chance Dungeon
-        </Typography> */}
         <Typography
           color={theme.palette.bodytext.main}
           sx={{ my: 3, fontSize: 20, pb: 2 }}
@@ -40,12 +33,7 @@ export default function About() {
         >
           The cast
         </Typography>
-        {/* <Typography
-          color={theme.palette.bodytext.main}
-          sx={{ my: 3, fontSize: 20, pb: 2 }}
-        >
-          Talk about cast if we want
-        </Typography> */}
+
         <Grid />
       </Box>
     </>
