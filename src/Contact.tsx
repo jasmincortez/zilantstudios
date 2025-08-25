@@ -104,7 +104,7 @@ export default function Contact() {
           >
             Instagram
           </Button>
-          <Button
+          {/* <Button
             target="_blank"
             href=""
             component="a"
@@ -121,7 +121,7 @@ export default function Contact() {
             }}
           >
             TikTok
-          </Button>
+          </Button> */}
         </Box>
       </Stack>
     </>
