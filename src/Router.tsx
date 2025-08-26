@@ -12,6 +12,7 @@ import theme from "./theme";
 import { Button, ListItem } from "@mui/material";
 import Contact from "./Contact";
 import Home from "./Home";
+import Series from "./Series";
 
 export interface RouteDefinition {
   label: string;
@@ -34,6 +35,12 @@ export const routes: RouteDefinition[] = [
     aria: "Navigate to about",
     to: "about",
     element: <About />,
+  },
+  {
+    label: "Series",
+    aria: "Navigate to Series",
+    to: "series",
+    element: <Series />,
   },
   {
     label: "Contact",
