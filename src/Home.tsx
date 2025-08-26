@@ -1,6 +1,7 @@
-import { Box, Button, Typography, alpha } from "@mui/material";
+import { Box, Button, Stack, Typography, alpha } from "@mui/material";
 import theme from "./theme";
 import { Margin } from "@mui/icons-material";
+import { Navigate } from "react-router-dom";
 
 export default function Home() {
   const imgsize = 40;
@@ -62,6 +63,23 @@ export default function Home() {
           ></iframe>
         </p>
       </Box>
+      {/* Serie Button */}
+      <Stack spacing={4} alignItems={"center"} sx={{ mb: 20 }}>
+        <Button
+          variant="contained"
+          component="a"
+          href="https://zilantstudios.com/series"
+          sx={{
+            color: "white",
+            minWidth: 0,
+            fontSize: 20,
+            fontWeight: "normal",
+            backgroundColor: "#3F7CAC",
+          }}
+        >
+          more about our series
+        </Button>
+      </Stack>
     </>
   );
 }
