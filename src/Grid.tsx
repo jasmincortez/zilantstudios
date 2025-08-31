@@ -94,7 +94,7 @@ const itemData = [
     img: "./Jasmin.jpeg",
     title: "Jasmin Cortez",
     pronoun: "they/she",
-    bio: "Playing as Lady Rapture, Jasmin Cortez is a Brazilian-German actor, voice actor and singer-songwriter. Based both in the UK and Brazil, they have been diving in the industry for over 10 years. With a passion for fantasy worlds, TTRPGs, nature and art, Jasmin looks to combine it all to create something special that touches people's hearts.",
+    bio: "Playing as Lady Rapture, Jasmin Cortez is a Brazilian-German actor, voice actor, singer-songwriter, GM and AP performer. Based in the UK, they have been diving in the industry for over 10 years. With a passion for fantasy worlds, TTRPGs, nature and art, Jasmin looks to combine it all to create something special that touches people's hearts.",
     avatar: "./Lady_Rapture.png",
   },
   {
